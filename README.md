@@ -1,5 +1,7 @@
 # Site is deployed at this [link](https://custom-charts-clone.web.app)
 
+![Main Page](https://github.com/prakHr/Portfolio-Site/blob/master/images/project2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
